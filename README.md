@@ -24,9 +24,9 @@ Take a look at our wiki page for a detailed [installation guide][3].
 
 ## Demo
 
-Try Hostelbook now at [http://trybootcamp.vitorfs.com][2].
+Try Hostelbook now at [http://35.185.234.81][2].
 
 [0]: https://www.python.org/
 [1]: https://www.djangoproject.com/
-[2]: http://trybootcamp.vitorfs.com/
+[2]: http://35.185.234.81
 [3]: https://github.com/kaustav1996/Hostelbook/installation_guide.md
