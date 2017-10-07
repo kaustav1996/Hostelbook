@@ -29,4 +29,4 @@ Try Bootcamp now at [http://trybootcamp.vitorfs.com][2].
 [0]: https://www.python.org/
 [1]: https://www.djangoproject.com/
 [2]: http://trybootcamp.vitorfs.com/
-[3]: https://github.com/kaustav1996/Hostelbook
+[3]: https://github.com/kaustav1996/Hostelbook/installation_guide.txt
